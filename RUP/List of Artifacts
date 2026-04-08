@@ -1,7 +1,15 @@
 1. Requirements (Требования), in MS Access.
+
 2. Business Use Case (diagram.jpeg)
 3. Business Analysis Model (diagram.jpeg)
     - Class diagram (Диаграмма классов)
+    - Activity diagram (Диаграмма деятельности)
+    - Sequence diagram (Диаграмма последовательности)
+    - State diagram (Диаграмма состояний)
+
+4. Use Case Model (diagram.jpeg)
+5. List of Use Cases (.xlsx)
+6. Specification of Use Case (.docx)
 
 
 
@@ -11,3 +19,4 @@ Type of Document                                                Type of Requirem
 1. Concept (Концепция) (.docx)                         1. Functional requirements
 2. Specification of Business Use Case (.docx)          2. Use Case
 3. Specification of Additional Requirements (.docx)    3. Non-functional requirements
+4. Glossary (Глоссарий) (.docx)
