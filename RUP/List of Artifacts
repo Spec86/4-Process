@@ -2,7 +2,7 @@
 
 2. Business Use Case (diagram.jpeg)
 3. Business Analysis Model (diagram.jpeg)
-    - Class diagram (Диаграмма классов)
+    - Class diagram (Диаграмма классов) (necessarily, obligatorily)
     - Activity diagram (Диаграмма деятельности)
     - Sequence diagram (Диаграмма последовательности)
     - State diagram (Диаграмма состояний)
@@ -13,19 +13,23 @@
 
 
 
-
 Type of Document                                                Type of Requirement
-
 1. Concept (Концепция) (.docx)                         1. Functional requirements
 2. Specification of Business Use Case (.docx)          2. Use Case
 3. Specification of Additional Requirements (.docx)    3. Non-functional requirements
 4. Glossary (Глоссарий) (.docx)
 
 
-Architectural analysis
+Level - Architectural analysis
 1. Key Abstractions (Набор классов анализа) (diagram.jpeg)
 
 
 
-Use case analysis
-1
+Level - Use Case analysis
+1. Class diagram (Диаграмма классов) (.jpeg)
+    - Boundary class
+    - Entity class
+    - Control class
+2. Interaction diagrams (Диаграммы взаимодействия)
+    - Sequence diagram (Диаграмма последовательности) (.jpeg)
+    - Cooperative diagram (Кооперативная диаграмма) (.jpeg)
