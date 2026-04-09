@@ -1,0 +1,4 @@
+1. Source code (Исходный код)
+2. Build (Сборка)
+3. Staging (Постановка) (.exe)
+4. Release (FTP, Ansible)
