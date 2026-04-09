@@ -1,0 +1,29 @@
+1. Theory - Computer Science
+2. Theory - Programming Languages
+3. Tools
+            Dev               Staging               Prod
+    - Provisioning        - CI/CD              - CI/CD
+    - Ubuntu Desktop      - Ubuntu Server      - Ubuntu Server
+    - Webmin              - Webmin             - Webmin
+    -                     - Apache Web Server  - Apache Web Server
+    -                     - Tomcat             - Tomcat
+    - MySQL               - MySQL              - MySQL
+    - JDK                 - JRE                - JRE
+    - Eclipse IDE
+
+4. Process
+    - RUP
+    - AUP
+    - AMDD
+    - XP
+
+5. Technology
+    1. Backend
+        - Spring Framework (MVC)
+        - ORM (Hibernate)
+    2. Frontend
+        - Vue.js
+        - Bootstrap
+    3. Mobile
+        - Android Java
+        - Android MAUI
