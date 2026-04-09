@@ -1,0 +1,16 @@
+Round-trip engineering (RTE)
+
+Computer 1 - Windows XP/7
+    1. IBM Rational RequisitePro
+    2. IBM Rational Rose (UML)
+    3. Java 7 code (text)
+
+
+Computer 2 - Ubuntu
+    1. Java 8 code (text)
+    2. AI-агент
+    3. Java 21 code
+
+
+Computer 3 - Windows 11
+    1. Eclipse
